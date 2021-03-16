@@ -7,7 +7,7 @@ Hi, I'm Anurag Hazra, a passionate self-taught frontEnd web developer from India
 
 - 🔭 I’m currently working on [renderless-components](https://github.com/timelessco/renderless-components)
 - 🌱 I’m currently learning Python with ML & AI
-- 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+- 👯 I’m looking to collaborate on [MyBlog](https://sharath.tech)
 - 💬 Ask me about anything [here](https://github.com/dsharathrao/dsharathrao/issues)
 
 **Languages and Tools:**  
