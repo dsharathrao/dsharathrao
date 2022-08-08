@@ -3,9 +3,8 @@
 <br />
 <br />
 
-Hi, I'm D Sharath Kumar Rao, a passionate self-taught Python, Django & Flask developer from India.
+Hi, I'm D Sharath Kumar Rao, a passionate self-taught Python, Django developer.
 
-- 🔭 I’m currently working on [renderless-components](https://github.com/timelessco/renderless-components)
 - 🌱 I’m currently learning Python with ML & AI
 - 👯 I’m looking to collaborate on [MyBlog](https://sharath.tech)
 - 💬 Ask me about anything [here](https://github.com/dsharathrao/dsharathrao/issues)
