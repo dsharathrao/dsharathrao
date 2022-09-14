@@ -1,7 +1,6 @@
 ### Hi there, I'm [Sharath!](https://dsharathrao.github.io) 👋
 
 <br />
-<br />
 
 Hi, I'm D Sharath Kumar Rao, a passionate self-taught Python, Django developer.
 
